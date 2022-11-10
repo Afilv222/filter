@@ -1,0 +1,528 @@
+[
+    {
+        "country": "Canada",
+        "id": 104,
+        "keywords": ["Psychology","Diversity in Psychology","Ethics","Cognitive Psychology","Life-Span Development","Personality","Research Methods in Psychology"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/mt-royal_stacked_color-logo_200px.jpg",
+        "min_requirement": "minimum grade 60-65%",
+        "overview": "Gain the scientific foundation and critical thinking skills that will give you insight into how people perceive the world and interact with others. Discover how social, cognitive and biological factors affect and are affected by the development of typical and atypical behaviour from conception to infancy through old age.",
+        "program": "Bachelor of Arts",
+        "program_duration": 4,
+        "region": "Calgary,Alberta",
+        "title": "Psychology",
+        "university_name": "Mount Royal University",
+        "web_page": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Arts/Departments/Psychology/PsychologyMajor/index.htm"
+        
+    },
+    {
+        "country": "Canada",
+        "id": 197,
+        "keywords": ["Tax specialist","Accounting","Financial Accounting","Management Accounting","Income Tax","Corporate","Business"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/mt-royal_stacked_color-logo_200px.jpg",
+        "min_requirement": "minimum grade 60%",
+        "overview": "With the expanding global economy, changing tax regulations and new financial reporting standards, accountants are in high demand. Gain knowledge to meet the need for skilled accountants in many organizations and get an edge with practical, hands-on experience. Graduates are eligible to apply to enter into the Chartered Professional Accountant (CPA) designation education program.",
+        "program": "Bachelor of Business Administration",
+        "program_duration": 4,
+        "region": "Calgary,Alberta",
+        "title": "Accounting",
+        "university_name": "Mount Royal University",
+        "web_page": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Business/Programs/Accounting/index.htm"
+        
+    },
+    {
+        "country": "Canada",
+        "id": 253,
+        "keywords": ["Nursing","Registered nurse","Nurse practitioner","Science","Nurse researcher/scholar","Nurse administrator","Practicum"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/mt-royal_stacked_color-logo_200px.jpg",
+        "min_requirement": "minimum grade 70%",
+        "overview": "Learn about health, wellness, collaborative health care and how to effectively engage with communities. Prepare for professional practice in a variety of health-care settings and capitalize on the demand for nursing graduates in Alberta, Canada and around the world. Graduates are prepared to write the required National Council Licensure Examination (NCLEX-RN®) and become Registered Nurses.",
+        "program": "Bachelor of Nursing",
+        "program_duration": 4,
+        "region": "Calgary,Alberta",
+        "title": "Nursing",
+        "university_name": "Mount Royal University",
+        "web_page": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/HealthCommunityEducation/Programs/BachelorofNursing/index.htm"
+        
+    },
+    {
+        "country": "Canada",
+        "id": 56,
+        "keywords": ["Bachelor of Science","Computer Science","Mathematics","Data Science","Networking"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/mt-royal_stacked_color-logo_200px.jpg",
+        "min_requirement": "minimum grade 60-65%",
+        "overview": "Learn the impact of computing with courses in computing theory, mathematics, programming, operating systems and networking. Beyond the keyboard, you will enhance your skills in communication, creativity, critical thinking and collaboration.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Calgary, Alberta",
+        "title": "Computer Science",
+        "university_name": "Mount Royal University",
+        "web_page": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/ScienceTechnology/Departments/MathematicsComputing/Majors/Computer-Science/index.htm"
+        
+        
+    },
+    {
+        "country": "Canada",
+        "id": 18,
+        "keywords": ["Science & Technology","IT support manager","Database administrator","Web/mobile application developer","Data Science","Business analyst","Computer Science"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/mt-royal_stacked_color-logo_200px.jpg",
+        "min_requirement": "minimum grade 60-65%",
+        "overview": "Focus on the practical application of computer systems in a business environment. Develop a double skill set that combines technical understanding with solid business acumen in software development, systems analysis and project management.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Calgary,Alberta",
+        "title": "Bachelor of Computer Information Systems",
+        "university_name": "Mount Royal University",
+        "web_page": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/ScienceTechnology/Departments/MathematicsComputing/Majors/Computer-Information-Systems/index.htm"
+    
+    },
+    {
+        "country": "Canada",
+        "id": 153,
+        "keywords": ["Automotive Service","Diploma program","Mechanic","Service Technician","Automatic Transmissions","Wheel Alignment"],
+        "logo": "https://www.sait.ca/assets/images/sait/logos/logo-sait_desktop.svg",
+        "min_requirement": "minimum grade 50%",
+        "overview": "Get hands-on automotive training in our two-year diploma and prepare for your apprenticeship as an Automotive Service Technician. You'll be taught by industry-trained instructors who will combine theory and hands-on learning opportunities so you gain a strong foundation in automotive vehicle maintenance, diagnosis, repairs, manufacturers specifications, customer service and communications.",
+        "program": "Diploma program",
+        "program_duration": 2,
+        "region": "Calgary,Alberta",
+        "title": "Automotive Service Technology",
+        "university_name": "Southern Alberta Institute of Technology",
+        "web_page": "https://www.sait.ca/programs-and-courses/diplomas/automotive-service-technology"
+    
+    },
+    {
+        "country": "Canada",
+        "id": 33,
+        "keywords": ["Business Administration","Business Law","Microeconomics","Accounting","International Business"],
+        "logo": "https://www.sait.ca/assets/images/sait/logos/logo-sait_desktop.svg",
+        "min_requirement": "minimum grade 65%",
+        "overview": "Make your mark with the industry-recognized Bachelor of Business Administration (BBA) degree. You can stand out in the job market with a wealth of business knowledge and skills - and a more in-depth level of relevant business coursework than graduates from other business degrees.",
+        "program": "Bachelor Degree",
+        "program_duration": 4,
+        "region": "Calgary,Alberta",
+        "title": "Business Administration",
+        "university_name": "Southern Alberta Institute of Technology",
+        "web_page": "https://www.sait.ca/programs-and-courses/degrees/bachelor-of-business-administration"
+    
+    },
+    {
+        "country": "Canada",
+        "id": 30,
+        "keywords": ["Chemical Engineering","Diploma program","Engineering Chemistry","Thermodynamics","Mathematics","Computer Fundamentals"],
+        "logo": "https://www.sait.ca/assets/images/sait/logos/logo-sait_desktop.svg",
+        "min_requirement": "minimum grade 60%",
+        "overview": "In this program, you'll gain an in-depth knowledge of unit operation, process control, and equipment design while you learn to operate, troubleshoot, maintain, and design safe processing units and plants. In addition, our industry-trained instructors will teach you design calculations, process simulation and control, industry safety, and environmental engineering.",
+        "program": "Diploma program",
+        "program_duration": 2,
+        "region": "Calgary,Alberta",
+        "title": "Chemical Engineering Technology",
+        "university_name": "Southern Alberta Institute of Technology",
+        "web_page": "https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology"
+    
+    },
+    {
+        "country": "Canada",
+        "id": 906,
+        "keywords": ["Civil Engineering","Diploma program","Applied Digital Technologies","Civil Surveying "],
+        "logo": "https://www.sait.ca/assets/images/sait/logos/logo-sait_desktop.svg",
+        "min_requirement": "minimum grade 60%",
+        "overview": "Become a civil engineering design and construction professional through our hands-on learning approach that combines theoretical training and applied learning. ",
+        "program": "Diploma program",
+        "program_duration": 2,
+        "region": "Calgary,Alberta",
+        "title": "Civil Engineering Technology",
+        "university_name": "Southern Alberta Institute of Technology",
+        "web_page": "https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology"
+    
+    },
+    {
+        "country": "Canada",
+        "id": 15,
+        "keywords": ["Diploma program","IT Software Development","IT Network Systems","IT Telecommunications","Data Science","Computer Systems","Computer Science"],
+        "logo": "https://www.sait.ca/assets/images/sait/logos/logo-sait_desktop.svg",
+        "min_requirement": "minimum grade 50-60%",
+        "overview": "Information Technology deals with the generation, storage, retrieval, transmission and protection of information, and the hardware and software involved in these processes. For that reason, IT professionals are often called IT specialists/consultants or business process consultants, and the division of an organization that deals with computers, software and communication technology is often called the IT department.",
+        "program": "Diploma program",
+        "program_duration": 2,
+        "region": "Calgary,Alberta",
+        "title": "Information Technology",
+        "university_name": "Southern Alberta Institute of Technology",
+        "web_page": "https://catalog.sait.ca/preview_program.php?catoid=164&poid=35204&returnto=4615"
+    
+    },
+    {
+        "country": "Canada",
+        "id": 179,
+        "keywords": ["Psychology","Abnormal Psychology","Brain and Behavior","Lifespan Developmental Psychology","Social Psychology"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/Alberta-colour-logo_280-2.jpg",
+        "min_requirement": "minimum grade low 70s",
+        "overview": "Psychology is the scientific study of mind and behaviour. Psychologists explore phenomena such as cognition, behaviour, emotion, language, learning, memory, development, and brain-behaviour relations, among many others. And just like people in every other discipline, psychologists strive to expand their field of knowledge to benefit the world.",
+        "program": "Bachelor of Arts",
+        "program_duration": 4,
+        "region": "Edmonton, Alberta",
+        "title": "Psychology",
+        "university_name": "University of Alberta",
+        "web_page": "https://www.ualberta.ca/psychology/index.html"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 277,
+        "keywords": ["Accounting","Auditor","Internal Audit Analyst","Tax Authorities","Tax specialist"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/Alberta-colour-logo_280-2.jpg",
+        "min_requirement": "minimum grade 60%",
+        "overview": "This major will give you a significant insight into all aspects of financial information: how it is generated, how it is processed, and what it means. Whether you are interested in accounting specifically or financial management in general, an Accounting major will give you a strong understanding of the numbers.",
+        "program": "Bachelor of Commerce",
+        "program_duration": 4,
+        "region": "Edmonton, Alberta",
+        "title": "Accounting",
+        "university_name": "University of Alberta",
+        "web_page": "https://www.ualberta.ca/business/programs/bachelor-of-commerce/majors/accounting.html"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 667,
+        "keywords": ["Chemistry","Biomolecular Chemistry","Electrochemistry","Solid State Chemistry","Organic Synthesis"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/Alberta-colour-logo_280-2.jpg",
+        "min_requirement": "minimum grade 75%",
+        "overview": "We have been ranked amongst the three strongest Chemistry departments in Canada for the past 60 years, and our Faculty continue to excel in research and in teaching. Faculty members hold numerous national and international awards. For example, in 2016, five Faculty members received awards in teaching and research from the Canadian Society for Chemistry and the Chemical Institute of Canada.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Edmonton, Alberta",
+        "title": "Chemistry",
+        "university_name": "University of Alberta",
+        "web_page": "https://www.ualberta.ca/chemistry/index.html"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 666,
+        "keywords": ["Computer Science","Artificial Intelligence","Data Science","Database Systems","Software Systems","Human Computer Interaction"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/Alberta-colour-logo_280-2.jpg",
+        "min_requirement": "minimum grade 75%",
+        "overview": "Our Department is known for its collegial atmosphere, dynamic and well-funded research environment, and superb research and teaching infrastructure. Faculty members are internationally recognized in many areas of computing science and enjoy collaborative research partnerships with local, national, and international institutions and companies.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Edmonton, Alberta",
+        "title": "Computer Science",
+        "university_name": "University of Alberta",
+        "web_page": "https://www.ualberta.ca/computing-science/about-the-department/index.html"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 555,
+        "keywords": ["Civil Engineering","Architect","Bridge Engineer","Field Engineer","maintaining Infrastructure"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/Alberta-colour-logo_280-2.jpg",
+        "min_requirement": "minimum grade 75%",
+        "overview": "The Department of Civil and Environmental Engineering at the University of Alberta is among the best in Canada, with a long-standing tradition of excellence and many distinguished alumni. With our proximity to Alberta's booming construction economy and connections to industry, we are able to offer you unmatched research and career opportunities.",
+        "program": "Bachelor of Science in Engineering",
+        "program_duration": 4,
+        "region": "Edmonton, Alberta",
+        "title": "Civil Engineering",
+        "university_name": "University of Alberta",
+        "web_page": "https://www.ualberta.ca/undergraduate-programs/bachelor-of-science-in-civil-engineering-civil-engineering.html"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 332,
+        "keywords": ["Civil Engineering","Mechanics","Physics for Engineers","Technical Communication","Architect"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/british-columbia-2-lines-blue-logo_200px.jpg",
+        "min_requirement": "minimum grade 70%",
+        "overview": "Civil engineers shape the world we live in by analyzing, planning, designing, constructing, and maintaining the “built” environment. In this program, you’ll take courses and complete lab work in topics such as soil mechanics and foundation design, construction management, design of steel, concrete and timber structures, as well as municipal infrastructure design, coastal engineering and environmental impact studies.",
+        "program": "Bachelor of Applied Science (Engineering)",
+        "program_duration": 4,
+        "region": "Vancouver, British Columbia",
+        "title": "Civil Engineering",
+        "university_name": "University of British Columbia",
+        "web_page": "https://you.ubc.ca/ubc_programs/civil-engineering-vancouver/"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 869,
+        "keywords": ["Psychology","Psychiatrist","Counsellor","Research Methods","Analysis of Behavioural Data","Personality"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/british-columbia-2-lines-blue-logo_200px.jpg",
+        "min_requirement": "minimum grade mid to high 70s",
+        "overview": "Studying psychology not only gives you a broad range of skills spanning science and the arts, it prepares you for a number of exciting career options. Psychology graduates qualify for entry-level positions in fields as diverse as marketing, sales, government, journalism, advertising, healthcare, social work and counselling.",
+        "program": "Bachelor of Arts",
+        "program_duration": 4,
+        "region": "Vancouver, British Columbia",
+        "title": "Psychology",
+        "university_name": "University of British Columbia",
+        "web_page": "https://psych.ubc.ca/"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 1010,
+        "keywords": ["Accounting","Financial Accounting","Economics","Commercial Law","Business Communications"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/british-columbia-2-lines-blue-logo_200px.jpg",
+        "min_requirement": "minimum grade 70%",
+        "overview": "Accountants do more than prepare financial statements; they can also audit, find cost and efficiency gains from new technologies, participate in strategies for mergers and acquisitions, do quality management, develop and use information systems to track financial performance, work in tax strategy, and manage health care benefits.",
+        "program": "Bachelor of Commerce",
+        "program_duration": 4,
+        "region": "Vancouver, British Columbia",
+        "title": "Accounting",
+        "university_name": "University of British Columbia",
+        "web_page": "https://you.ubc.ca/ubc_programs/commerce/"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 991,
+        "keywords": ["Computer Science","Web Development","Numerical Methodology","Data Science","Machine Learning"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/british-columbia-2-lines-blue-logo_200px.jpg",
+        "min_requirement": "minimum grade 80%",
+        "overview": "Learn how to use and improve computers while you explore topics such as databases and operating systems, software engineering, security, web development, and numerical methodology. Computer Science gives you a thorough grounding in computer software design, and a broad choice of other studies in computing.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Vancouver, British Columbia",
+        "title": "Computer Science",
+        "university_name": "University of British Columbia",
+        "web_page": "https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 991,
+        "keywords": ["Nursing","Human Anatomy","Applied Research","Foundations of Health","Pharmacology"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/british-columbia-2-lines-blue-logo_200px.jpg",
+        "min_requirement": "minimum grade 70%",
+        "overview": "As a student in the Nursing program, you can get active in the community through School Initiatives. In your third-year coursework you can practise alongside community health nurses working with community groups, and in fourth year you can extend your education further afield with practicum placements.",
+        "program": "Bachelor of Science in Nursing",
+        "program_duration": 4,
+        "region": "Kelowna, British Columbia",
+        "title": "Nursing",
+        "university_name": "University of British Columbia - Okanagan Campus",
+        "web_page": "https://you.ubc.ca/ubc_programs/nursing-okanagan/"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 169,
+        "keywords": ["Psychology","Human Sexuality","Research Methods and Data Analysis in Pyschology","Language Development","Developmental Psychology"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2018/08/uCalgary-2.jpg",
+        "min_requirement": "minimum grade mid 80s",
+        "overview": "Psychology is the scientific study of the biological, cognitive, emotional, and social bases of behaviour. There is a strong emphasis on written and verbal communication, as well as statistical analysis and research skills. Students who are interested in gaining experience with psychology research may pursue opportunities to work in research laboratories, either as a volunteer or as part of research courses.",
+        "program": "Bachelor of Arts",
+        "program_duration": 4,
+        "region": "Calgary, Alberta",
+        "title": "Psychology",
+        "university_name": "University of Calgary",
+        "web_page": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/psychology-arts"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 69,
+        "keywords": ["Accounting","Financial Auditing","Tax Accounting","Managerial Accounting","Accounting Theory","Taxation","Income Tax"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2018/08/uCalgary-2.jpg",
+        "min_requirement": "minimum grade low 80s",
+        "overview": "Accountants create, disseminate, and evaluate financial information. This program will give you an introduction to various information technologies, expose you to conceptual issues, and provide you with the appropriate technical skills to become an entry-level accountant. You'll complete formal presentations, live projects, group projects and various case studies during your degree.",
+        "program": "Bachelor of Commerce",
+        "program_duration": 4,
+        "region": "Calgary, Alberta",
+        "title": "Accounting",
+        "university_name": "University of Calgary",
+        "web_page": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/accounting"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 58,
+        "keywords": ["Nursing","Registered nurse","Human Anatomy and Physiology","Science","Health Assessment","Practicum"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/mt-royal_stacked_color-logo_200px.jpg",
+        "min_requirement": "minimum grade low 90s",
+        "overview": "Leading the way on health-care teams, registered nurses are in high demand for their clinical skills and theoretical knowledge. Over the course of your studies, you'll be involved in active learning within the classroom, with small clinical groups in a variety of off-campus nursing practice settings, and in simulated clinical laboratories.",
+        "program": "Bachelor of Nursing",
+        "program_duration": 4,
+        "region": "Calgary,Alberta",
+        "title": "Nursing",
+        "university_name": "University of Calgary",
+        "web_page": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/nursing"
+        
+    },
+    {
+        "country": "Canada",
+        "id": 92,
+        "keywords": ["Chemistry","Science","Organic Chemistry","Environmental Chemistry","Industrial Organic Chemistry for Engineers"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2018/08/uCalgary-2.jpg",
+        "min_requirement": "minimum grade high 70s",
+        "overview": "Chemistry plays a role in almost everything we do. As a central science, it's closely connected with biology, math and physics. During the course of your studies, much of your learning will occur while actively working on problems in class, during tutorials, and in the laboratory. You'll gain experimental skills and a solid theoretical background. You'll also develop valuable professional skills and the ability to independently design and conduct your own scientific research.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Calgary, Alberta",
+        "title": "Chemistry",
+        "university_name": "University of Calgary",
+        "web_page": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/chemistry"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 27,
+        "keywords": ["Bachelor of Science","Computer Science","Mathematics","Data Science","Linear methods","Problem solving"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2018/08/uCalgary-2.jpg",
+        "min_requirement": "minimum grade low 90s",
+        "overview": "Computer science is a field of theoretical and practical problem solving, combining creativity with mathematics, logic and communication. A strong understanding of computer science principles helps prepare you for a long career of problem solving and system building without requiring continual training",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Calgary, Alberta",
+        "title": "Computer Science",
+        "university_name": "University of Calgary",
+        "web_page": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/computer-science"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 472,
+        "keywords": ["Psychology","Psychological Association","Cross-Cultural","Abnormal Psychology","Social Science"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/toronto-color-blue-stacked-logo_200px.png",
+        "min_requirement": "minimum grade 70s",
+        "overview": "Psychology is the scientific study of the mind, brain, and behaviour. Measured by major global university rankings, research productivity and impact, the Department of Psychology at the University of Toronto is one of the world’s best. Importantly, we combine excellence with accessibility more successfully than virtually any other university in the world.",
+        "program": "Bachelor of Arts",
+        "program_duration": 4,
+        "region": "Toronto, Ontario",
+        "title": "Psychology",
+        "university_name": "University of Toronto",
+        "web_page": "https://www.psych.utoronto.ca/"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 672,
+        "keywords": ["Accounting","Accounting Specialist","Financial Markets","Taxation"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/toronto-color-blue-stacked-logo_200px.png",
+        "min_requirement": "minimum grade low 80s",
+        "overview": "The Bachelor of Commerce degree builds on a common foundation of a range of business disciplines and economics. Rotman Commerce students specialize in one of three areas: Accounting, Finance and Economics, or Management. Each stream combines courses in management and applied economics with a variety of courses in the arts and sciences. The balance assures graduates of a solid understanding of business and modern society along with a command of critical skills across business disciplines, decision-making, and leadership.",
+        "program": "Bachelor of Commerce",
+        "program_duration": 4,
+        "region": "Toronto, Ontario",
+        "title": "Accounting",
+        "university_name": "University of Toronto",
+        "web_page": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 1056,
+        "keywords": ["Chemistry","Biological Chemistry","Organic chemistry","Human Anatomy","Polymer and materials"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/toronto-color-blue-stacked-logo_200px.png",
+        "min_requirement": "minimum grade low 80s",
+        "overview": "Chemistry places a strong emphasis on an understanding of the structures and properties of atoms and molecules, and on using this understanding to predict and interpret the behaviour of matter. Many of the concepts of physics and the methods of mathematics are fundamental to chemistry.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Toronto, Ontario",
+        "title": "Chemistry",
+        "university_name": "University of Toronto",
+        "web_page": "https://www.chemistry.utoronto.ca/"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 258,
+        "keywords": ["Computer Science","Computer Vision","Scientific Computing","Game Design","Computer Systems"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/toronto-color-blue-stacked-logo_200px.png",
+        "min_requirement": "minimum grade low 80s",
+        "overview": "Studying computer science as an undergraduate at the University of Toronto opens up a world of possibilities for both academic exploration and future career pathways. Undergraduate courses cover a wide range of topics in computer science, reflecting the breadth of innovative research conducted by our faculty.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Toronto, Ontario",
+        "title": "Computer Science",
+        "university_name": "University of Toronto",
+        "web_page": "https://web.cs.toronto.edu/"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 222,
+        "keywords": ["Civil Engineering","Mechanics","Mathematics","Management of Construction","Urban Engineering Ecology"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/toronto-color-blue-stacked-logo_200px.png",
+        "min_requirement": "minimum grade low 80s",
+        "overview": "Civil Engineering exists at the intersection of the human, built, and natural environments. Civil Engineers have historically been the professionals leading the design, construction, maintenance and eventual decommissioning of society's physical infrastructure, including: transportation networks, water supply and wastewater treatment systems, the structures for energy generation and distribution systems, buildings and other works, land and water remediation, and more.",
+        "program": "Bachelor of Science in Engineering",
+        "program_duration": 4,
+        "region": "Toronto, Ontario",
+        "title": "Civil Engineering",
+        "university_name": "University of Toronto",
+        "web_page": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce"
+         
+    },
+    {
+        "country": "Canada",
+        "id": 301,
+        "keywords": ["Psychology","Cognitive Processes","Educational Psychology","Developmental Psychology","Psychology of Evil"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/waterloo_color-horizontal-logo_200px.png",
+        "min_requirement": "minimum grade low 70s",
+        "overview": "Explore the frontiers of the mind. Examine human behaviour from a variety of perspectives, including neuroscience, cognition, clinical, developmental, industrial/organizational, and social psychology.",
+        "program": "Bachelor of Arts",
+        "program_duration": 4,
+        "region": "Waterloo, Ontario",
+        "title": "Psychology",
+        "university_name": "University of Waterloo",
+        "web_page": "https://uwaterloo.ca/future-students/programs/psychology-arts" 
+    
+    },
+    {
+        "country": "Canada",
+        "id": 567,
+        "keywords": ["Accounting","Global Financial Markets","Microeconomics","Income Tax","Entrepreneurial Practice"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/waterloo_color-horizontal-logo_200px.png",
+        "min_requirement": "minimum grade low 70s",
+        "overview": "An AFM degree provides a direct route to a Chartered Professional Accountant (CPA) designation and a Chartered Financial Analyst (CFA) designation. Complete our Master of Accounting (MAcc) program and you'll also get advanced standing for the Chartered Business Valuators (CBV) professional designation",
+        "program": "Bachelor of Arts",
+        "program_duration": 4,
+        "region": "Waterloo, Ontario",
+        "title": "Accounting and Financial Management",
+        "university_name": "University of Waterloo",
+        "web_page": "https://uwaterloo.ca/future-students/programs/accounting-and-financial-management" 
+    
+    },
+    {
+        "country": "Canada",
+        "id": 420,
+        "keywords": ["Civil Engineering","Civil Engineering Concepts","Mechanics","Mathematics","Electrical Circuits and Instrumentation"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/waterloo_color-horizontal-logo_200px.png",
+        "min_requirement": "minimum grade mid to high 80s",
+        "overview": "Population growth, climate change, and aging infrastructure are some of the big challenges that today’s civil engineers tackle in the quest for smart cities and a sustainable future. As a civil engineer, you’ll lead the creation, maintenance, and management of the large-scale infrastructure we all depend upon.",
+        "program": "Bachelor of Applied Science in Civil Engineering",
+        "program_duration": 4,
+        "region": "Waterloo, Ontario",
+        "title": "Civil Engineering",
+        "university_name": "University of Waterloo",
+        "web_page": "https://uwaterloo.ca/future-students/programs/civil-engineering" 
+    
+    },
+    {
+        "country": "Canada",
+        "id": 356,
+        "keywords": ["Bachelor of Science","Computer Science","Mathematics","Data Science","Algorithms","Database management system"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/waterloo_color-horizontal-logo_200px.png",
+        "min_requirement": "minimum grade low to mid-90s",
+        "overview": "Your degree is your ticket to career success. Our graduates go on to work in leading technology companies and at top universities around the world. Meanwhile, Waterloo professors and graduates have created more than 800 spin-off companies, including leaders like OpenText, Canada's largest software company.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Waterloo, Ontario",
+        "title": "Computer Science",
+        "university_name": "University of Waterloo",
+        "web_page": "https://uwaterloo.ca/future-students/programs/computer-science" 
+    
+    },
+    {
+        "country": "Canada",
+        "id": 221,
+        "keywords": ["Health Science","Bachelor of Science","Human Physiology","Psychology","Cell Biology","General Chemistry"],
+        "logo": "https://www.universitystudy.ca/wp-content/uploads/2019/04/waterloo_color-horizontal-logo_200px.png",
+        "min_requirement": "minimum grade mid-80s",
+        "overview": "Focus on preventing illness, not simply treating people once they get sick. At Waterloo, you'll learn how to promote health, improve health care systems, and bring together the science and the social aspects of health.",
+        "program": "Bachelor of Science",
+        "program_duration": 4,
+        "region": "Waterloo, Ontario",
+        "title": "Health Science",
+        "university_name": "University of Waterloo",
+        "web_page": "https://uwaterloo.ca/future-students/programs/health-sciences" 
+    
+    }
+    ]
