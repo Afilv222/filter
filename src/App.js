@@ -1,23 +1,43 @@
-import logo from './logo.svg';
 import './App.css';
+import JSONDATA from './Data.json'; 
+import {useState} from 'react' 
 
 function App() {
+  const [searchTerm,setSearchTera] = useState('');
+
+  function handleChange(event){
+    return setSearchTera(event.target.value);
+  }
+  
+  function filterKeyWords(){
+    
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  
+    <div className = "App">
+      <input type="text" placeholder='Search bar' onChange={handleChange}/>
+      
+      {JSONDATA.filter(val =>{
+         console.log(val.keywords.filter((x) => x.toLowerCase().includes(searchTerm.toLowerCase())));
+        //val.keywords.filter((x) => x.toLowerCase().includes(searchTerm.toLowerCase())).includes(searchTerm.toLocaleLowerCase())
+        if(searchTerm == ""){
+          return ""; 
+        } else if(val.keywords.filter((x) => x.toLowerCase().includes(searchTerm.toLowerCase())) == searchTerm.toLocaleLowerCase()){
+          console.log(val);
+          return val; 
+        }
+      }).map((val,key) => {
+        return (
+        <div className='program' key={key}>
+          <p>{val.university_name} {val.title}</p>
+        </div>
+        )
+      })
+
+      
+      
+      }
     </div>
   );
 }
